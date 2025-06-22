@@ -66,7 +66,7 @@ const Experience = () => {
                 : "border-l-hoverColor text-textDark"
             } border-l-2 bg-transparent hover:bg-[#112240] py-3 text-sm  cursor-pointer duration-300 px-8 font-medium`}
           >
-            RactBD
+            Convo
           </li>
           <li
             onClick={handleGoogle}
@@ -76,18 +76,9 @@ const Experience = () => {
                 : "border-l-hoverColor text-textDark"
             } border-l-2 bg-transparent hover:bg-[#112240] py-3 text-sm  cursor-pointer duration-300 px-8 font-medium`}
           >
-            Google
+            Avicena
           </li>
-          <li
-            onClick={handleApple}
-            className={`${
-              workApple
-                ? "border-l-textGreen text-textGreen"
-                : "border-l-hoverColor text-textDark"
-            } border-l-2 bg-transparent hover:bg-[#112240] py-3 text-sm  cursor-pointer duration-300 px-8 font-medium`}
-          >
-            Apple
-          </li>
+          
           <li
             onClick={handleSplash}
             className={`${
@@ -96,18 +87,9 @@ const Experience = () => {
                 : "border-l-hoverColor text-textDark"
             } border-l-2 bg-transparent hover:bg-[#112240] py-3 text-sm  cursor-pointer duration-300 px-8 font-medium`}
           >
-            Splash
+            Applet
           </li>
-          <li
-            onClick={handleAmazon}
-            className={`${
-              workAmazon
-                ? "border-l-textGreen text-textGreen"
-                : "border-l-hoverColor text-textDark"
-            } border-l-2 bg-transparent hover:bg-[#112240] py-3 text-sm  cursor-pointer duration-300 px-8 font-medium`}
-          >
-            Amazon
-          </li>
+        
         </ul>
         {workReactbd && <ReactBD />}
         {workGoogle && <Google />}

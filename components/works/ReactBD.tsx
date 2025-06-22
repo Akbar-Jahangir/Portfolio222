@@ -10,11 +10,11 @@ const ReactBD = () => {
       className="w-full"
     >
       <h3 className="flex gap-1 font-medium text-xl font-titleFont">
-        Engineer
-        <span className="text-textGreen tracking-wide">@ReactBD</span>
+        Frontend Developer
+        <span className="text-textGreen tracking-wide">@Convo</span>
       </h3>
       <p className="text-sm mt-1 font-medium text-textDark">
-        Jan 2023 - present
+        Oct 2024 - May 2025
       </p>
       <ul className="mt-6 flex flex-col gap-3">
         <li className="text-base flex gap-2 text-textDark">
@@ -22,15 +22,15 @@ const ReactBD = () => {
             <TiArrowForward />
           </span>
           Write modern, performant, maintainable code for a diverse array of
-          client and internal projects
+           projects
         </li>
         <li className="text-base flex gap-2 text-textDark">
           <span className="text-textGreen mt-1">
             <TiArrowForward />
           </span>
           Work with a variety of different languages, platforms, frameworks, and
-          content management systems such as JavaScript, TypeScript, Gatsby,
-          React, Craft, WordPress, Prismic, and Netlify
+          content management systems such as JavaScript, TypeScript, Odoo,
+          React, MUI, Supabase, Firebase, and Netlify
         </li>
         <li className="text-base flex gap-2 text-textDark">
           <span className="text-textGreen mt-1">

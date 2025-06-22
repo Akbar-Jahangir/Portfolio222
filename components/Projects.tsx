@@ -14,7 +14,7 @@ const Projects = () => {
         <div className="flex flex-col xl:flex-row gap-6">
           <a
             className="w-full xl:w-1/2 h-auto relative group"
-            href="https://nextamazon.reactbd.com/"
+            href="https://hhtechnologies.netlify.app/"
             target="_blank"
           >
             <div>
@@ -31,39 +31,28 @@ const Projects = () => {
               <p className="font-titleFont text-textGreen text-sm tracking-wide">
                 Featured Project
               </p>
-              <h3 className="text-2xl font-bold">Amazon Clone 2.0</h3>
+              <h3 className="text-2xl font-bold">HH Technologies</h3>
             </div>
             <p className="bg-[#112240] text-sm md:text-base p-2 md:p-6 rounded-md">
-              An Amazon clone website for visualizing personalized Amazon
-              website. View your products, Add your account with{" "}
-              <span className="text-textGreen">O-auth</span> and then make the
-              purchage using <span className="text-textGreen">stripe</span>.
+              Designed and developed a responsive company website using React.js, Tailwind. Implemented modern UI components, smooth navigation,integration to showcase the company’s profile and enhance their online presence.
             </p>
             <ul className="text-xs md:text-sm font-titleFont tracking-wide flex gap-2 md:gap-5 justify-between text-textDark">
-              <li>Nextjs</li>
-              <li>Typescript</li>
-              <li>Next-auth</li>
-              <li>Stripe</li>
-              <li>Vercel Deployment</li>
+              <li>Reactjs</li>
+              <li>Javascript</li>
+              <li>Tailwindcss</li>
+              <li>Netlify Deployment</li>
             </ul>
             <div className="text-2xl flex gap-4">
               <a
                 className="hover:text-textGreen duration-300"
-                href="https://github.com/noorjsdivs"
+                href="https://github.com/Akbar-Jahangir"
                 target="_blank"
               >
                 <TbBrandGithub />
               </a>
               <a
                 className="hover:text-textGreen duration-300"
-                href="https://youtu.be/WzMtRfzkP-Q"
-                target="_blank"
-              >
-                <AiOutlineYoutube />
-              </a>
-              <a
-                className="hover:text-textGreen duration-300"
-                href="https://nextamazon.reactbd.com/"
+                href="https://hhtechnologies.netlify.app/"
                 target="_blank"
               >
                 <RxOpenInNewWindow />
@@ -76,7 +65,7 @@ const Projects = () => {
         <div className="flex flex-col xl:flex-row-reverse gap-6">
           <a
             className="w-full xl:w-1/2 h-auto relative group"
-            href="https://www.noormohmmad.com/"
+            href="https://clothsstore11.netlify.app/"
             target="_blank"
           >
             <div>
@@ -93,41 +82,29 @@ const Projects = () => {
               <p className="font-titleFont text-textGreen text-sm tracking-wide">
                 Featured Project
               </p>
-              <h3 className="text-2xl font-bold">Cyber Security Blog</h3>
+              <h3 className="text-2xl font-bold">Ecommerce site</h3>
             </div>
             <p className="text-sm md:text-base bg-[#112240] p-2 md:p-6 rounded-md xl:-mr-16">
-              A full functional Cyber Security Blog where you can view the
-              latest post and{" "}
-              <span className="text-textGreen">comments on</span> it by passing
-              your ideas besides you can try to add your own{" "}
-              <span className="text-textGreen">post</span> on it by logging on
-              the portal.
+              E-commerce Website
+              Built a fully functional e-commerce site with features like product listing, add to cart, cart view, and checkout. Developed using React.js, TailwindCSS. Fully responsive smooth user experience.
             </p>
             <ul className="text-xs md:text-sm font-titleFont tracking-wide flex gap-2 md:gap-5 justify-between text-textDark">
-              <li>Nextjs</li>
-              <li>Typescript</li>
-              <li>Next-auth</li>
-              <li>Sanity</li>
-              <li>React Hook Form</li>
+              <li>Reactjs</li>
+              <li>Javascript</li>
+              <li>Tailwindcss</li>
             </ul>
             <div className="text-2xl flex gap-4">
               <a
                 className="hover:text-textGreen duration-300"
-                href="https://github.com/noorjsdivs"
+                href="https://github.com/Akbar-Jahangir"
                 target="_blank"
               >
                 <TbBrandGithub />
               </a>
+
               <a
                 className="hover:text-textGreen duration-300"
-                href="https://youtu.be/49Fx963su1I"
-                target="_blank"
-              >
-                <AiOutlineYoutube />
-              </a>
-              <a
-                className="hover:text-textGreen duration-300"
-                href="https://www.noormohmmad.com/"
+                href="https://clothsstore11.netlify.app/"
                 target="_blank"
               >
                 <RxOpenInNewWindow />
@@ -140,7 +117,7 @@ const Projects = () => {
         <div className="flex flex-col xl:flex-row gap-6">
           <a
             className="w-full xl:w-1/2 h-auto relative group"
-            href="https://noorshop.netlify.app/"
+            href="https://eyetest11.netlify.app/"
             target="_blank"
           >
             <div>
@@ -157,39 +134,30 @@ const Projects = () => {
               <p className="font-titleFont text-textGreen text-sm tracking-wide">
                 Featured Project
               </p>
-              <h3 className="text-2xl font-bold">Amazon Clone 2.0</h3>
+              <h3 className="text-2xl font-bold"> Online Eye Test Platform</h3>
             </div>
             <p className="text-sm md:text-base bg-[#112240] p-2 md:p-6 rounded-md">
-              An Amazon clone website for visualizing personalized Amazon
-              website. View your products, Add your account with{" "}
-              <span className="text-textGreen">O-auth</span> and then make the
-              purchage using <span className="text-textGreen">stripe</span>.
+              Online Eye Test Platform
+              Developed a web app for users to take eye tests, get instant results, and receive personalized glasses recommendations. Built using React.js, JavaScript, and Tailwind CSS with a clean and responsive design for easy accessibility.
             </p>
             <ul className="text-xs md:text-sm font-titleFont tracking-wide flex gap-2 md:gap-5 justify-between text-textDark">
-              <li>Nextjs</li>
+              <li>Reactjs</li>
               <li>Typescript</li>
-              <li>Next-auth</li>
-              <li>Stripe</li>
-              <li>Vercel Deployment</li>
+              <li>Tailwindcss</li>
+
             </ul>
             <div className="text-2xl flex gap-4">
               <a
                 className="hover:text-textGreen duration-300"
-                href="https://github.com/noorjsdivs"
+                href="https://github.com/Akbar-Jahangir"
                 target="_blank"
               >
                 <TbBrandGithub />
               </a>
+             
               <a
                 className="hover:text-textGreen duration-300"
-                href="https://youtu.be/fi0nQc25xAw"
-                target="_blank"
-              >
-                <AiOutlineYoutube />
-              </a>
-              <a
-                className="hover:text-textGreen duration-300"
-                href="https://noorshop.netlify.app/"
+                href="https://eyetest11.netlify.app/"
                 target="_blank"
               >
                 <RxOpenInNewWindow />
